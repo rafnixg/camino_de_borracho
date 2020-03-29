@@ -13,9 +13,9 @@ class Borracho:
 class BorrachoTradicional(Borracho):
     """Clase para el borracho tradicional."""
 
-    def __init__(self, name):
+    def __init__(self, nombre):
         """Inicializa el borracho tradicional."""
-        super().__init__(name)
+        super().__init__(nombre)
 
     def camina(self):
         """Retorna una tupla.
