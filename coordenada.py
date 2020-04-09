@@ -5,7 +5,7 @@ class Coordenada:
     """Clase para las coordenadas."""
 
     def __init__(self, x, y):
-        """Inicializa las coordendas."""
+        """Inicializa las coordenadas."""
         self.x = x
         self.y = y
 
